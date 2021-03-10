@@ -1,0 +1,11 @@
+.vertical-timeline-element-date{
+    font-size: 40px;
+}
+
+.year-publish {
+    color: white;
+    background-color: #282c34;
+    position: relative;
+    margin: 1rem;
+    /* float: right; */
+}
