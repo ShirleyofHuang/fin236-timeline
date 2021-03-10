@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fin236-timeline/static/css/main.a5e5055d.chunk.css",
+    "main.js": "/fin236-timeline/static/js/main.4f886439.chunk.js",
+    "main.js.map": "/fin236-timeline/static/js/main.4f886439.chunk.js.map",
+    "runtime-main.js": "/fin236-timeline/static/js/runtime-main.8940d212.js",
+    "runtime-main.js.map": "/fin236-timeline/static/js/runtime-main.8940d212.js.map",
+    "static/css/2.667362ae.chunk.css": "/fin236-timeline/static/css/2.667362ae.chunk.css",
+    "static/js/2.570a2f37.chunk.js": "/fin236-timeline/static/js/2.570a2f37.chunk.js",
+    "static/js/2.570a2f37.chunk.js.map": "/fin236-timeline/static/js/2.570a2f37.chunk.js.map",
+    "static/js/3.89046722.chunk.js": "/fin236-timeline/static/js/3.89046722.chunk.js",
+    "static/js/3.89046722.chunk.js.map": "/fin236-timeline/static/js/3.89046722.chunk.js.map",
+    "index.html": "/fin236-timeline/index.html",
+    "static/css/2.667362ae.chunk.css.map": "/fin236-timeline/static/css/2.667362ae.chunk.css.map",
+    "static/css/main.a5e5055d.chunk.css.map": "/fin236-timeline/static/css/main.a5e5055d.chunk.css.map",
+    "static/js/2.570a2f37.chunk.js.LICENSE.txt": "/fin236-timeline/static/js/2.570a2f37.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fin236-timeline/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8940d212.js",
+    "static/css/2.667362ae.chunk.css",
+    "static/js/2.570a2f37.chunk.js",
+    "static/css/main.a5e5055d.chunk.css",
+    "static/js/main.4f886439.chunk.js"
+  ]
+}
