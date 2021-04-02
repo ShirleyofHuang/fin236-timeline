@@ -1,0 +1,29 @@
+.identity {
+    color: white;
+}
+
+.identity___title {
+    margin-bottom: 3rem;
+}
+
+.no-padding{
+    padding-right: 0;
+}
+
+.identity___books {
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+}
+
+.identity___flag {
+    height: 500px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/6/6d/Rainbow_flag_and_blue_skies.jpg');
+}
+
+.identity___intro {
+    margin-bottom: 20rem;
+}
+
+.identity___10 {
+    margin-bottom: 10rem;
+}

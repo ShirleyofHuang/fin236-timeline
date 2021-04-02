@@ -42,3 +42,7 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-tabs {
+  border-bottom: #282c34;
+}
