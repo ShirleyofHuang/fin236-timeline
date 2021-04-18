@@ -52,7 +52,7 @@ export class Timeline extends React.Component {
                         <p>
                         Anil (Sri Lankan native) returns back to Sri Lanka as a forensic pathologist during its
                          civil war. She discovers a skeleton of a murdered man in an ancient burial ground.
-                          The murder seems to be politically motivated and bring justice for the nameless victims of the war.
+                          The murder seems to be politically motivated and she begins her journey to bring justice for the nameless victims of the war.
                         </p>
                         <hr></hr>
                         <p>
@@ -71,11 +71,11 @@ export class Timeline extends React.Component {
                         <h3 className="vertical-timeline-element-title">Canal Grande</h3>
                         <h4 className="vertical-timeline-element-subtitle">Hannu Raittila</h4>
                         <p>
-                            Cannot find
+                            Building the canals in Italy. A better summary could not been found. 
                         </p>
                         <hr></hr> 
                         <p>
-                            Cannot find
+                            Cannot find, but it's a historical novel
                         </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
@@ -119,7 +119,7 @@ export class Timeline extends React.Component {
                         <p>
                         About a man who has lost his home after a divorce. With a pair of binoculars 
                         around his neck, he goes on a residential neighborhood safari as if on an African
-                         savannah. It looks at the modern lower middle class                        
+                         savannah. The book looks at and explores the modern lower middle class.                        
                         </p>
                         <hr></hr> 
                         <p>
@@ -136,9 +136,10 @@ export class Timeline extends React.Component {
                         <h3 className="vertical-timeline-element-title">A song for Nettie Johnson</h3>
                         <h4 className="vertical-timeline-element-subtitle">Gloria Sawai</h4>
                         <p>
-                        Collection of short stories
+                        Collection of short stories.
                         Examines the lives of people on the margins
-                        Goes into the lives of people and finds the squalor, fear, and unhappiness that lie beneath and she also uncovers hope. 
+                        Goes into the lives of people and finds the squalor, fear, and unhappiness that lie beneath.
+                        Through the stories the author uncovers the most precious human quality -- hope. 
                         </p>
                         <hr></hr>
                         <p>
@@ -179,7 +180,7 @@ export class Timeline extends React.Component {
                         </p>
                         <hr></hr>
                         <p>
-                            Themes: Canada meant to the Early european adventures, love and lust, death and beauty. 
+                            Themes: Canada's meaning to the Early european adventures, love and lust, death and beauty. 
                         </p>
                     </VerticalTimelineElement> 
                     {/* 2004 */}
@@ -211,7 +212,7 @@ export class Timeline extends React.Component {
                         <h3 className="vertical-timeline-element-title"> A Complicated Kindness</h3>
                         <h4 className="vertical-timeline-element-subtitle">Miriam Toews</h4>
                         <p>
-                        Set in a small religious town, where a sixteen yo girl lives with her father. 
+                        Set in a small religious town, where a sixteen year old girl lives with her father. 
                         Her sister and mother both left. She develops a relationship with a boy, 
                         she tries to bring her family together and find her place in society. 
                         </p>
@@ -461,7 +462,7 @@ export class Timeline extends React.Component {
                          her ways of solving problems becomes more and more unusual.                         </p>
                         <hr></hr> 
                         <p>
-                        Themes:
+                        Themes: Not found
                         </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
@@ -570,7 +571,7 @@ export class Timeline extends React.Component {
                         <h4 className="vertical-timeline-element-subtitle">Linda Spalding</h4>
                         <p>
                         1798, a young Quaker father and widower, leaves home to establish a new 
-                        life along with his five children, a 15yo orphan wife. He later trades his horse for a slave and sets in motion a struggle in his conscience. About pioneer life.
+                        life along with his five children, a 15 year old orphan wife. He later trades his horse for a slave and sets in motion a struggle in his conscience. About pioneer life.
                         His buying of the slave causes a series of tragic events.
                         </p>
                         <hr></hr>
@@ -817,9 +818,9 @@ export class Timeline extends React.Component {
                         Karen enters campus and its revelry, particularly a fraternity. She wakes 
                         up one morning on the lawn of a house of radical feminismsts, and gets a 
                         crash course in the state of feminist activism on campus. She learns that 
-                        the frat consists of a bunch of date rapists. Despite continueing to party 
-                        there and dating one of the brothers, karen is equally sdecuded by the 
-                        stimulation and of feminist who want her as a housemate. She gets caught 
+                        the frat consists of a bunch of date rapists. Despite continuing to party 
+                        there and dating one of the brothers, Karen is equally seduced by the 
+                        stimulation and of feminists who want her as a housemate. She gets caught 
                         between two polarized camps.
                         </p>
                         <hr></hr>
@@ -839,7 +840,7 @@ export class Timeline extends React.Component {
                         <h3 className="vertical-timeline-element-title">Bolla </h3>
                         <h4 className="vertical-timeline-element-subtitle">Pajtim Statovci</h4>
                         <p>
-                        In april of 1995, a 22 yo married a student at the University of Pristina, 
+                        In april of 1995, a 22 year old married a student at the University of Pristina, 
                         he kept his head down to get a university degree in a time and place deeply 
                         hostile to Albanians. In a cafe, he meets a Serb and before the day ends 
                         everything has changed. His wife announces her first pregnancy and he starts 

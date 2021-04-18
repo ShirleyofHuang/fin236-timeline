@@ -4,21 +4,22 @@ import {Tabs, Tab} from 'react-bootstrap'
 import {Timeline} from './Timeline';
 import {Breakdown} from './Breakdown'
 import {Identity} from './Identity';
+import {Trauma} from './Trauma';
 
 
 function App() {
   return (
     <div className="App">
-      <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
+      <Tabs defaultActiveKey="timeline" id="uncontrolled-tab-example">
         <Tab eventKey="timeline" title="Timeline">
           <h3 className="title">Finlandia And Governor's General Award History</h3>
           <Timeline></Timeline>      
         </Tab>
-      <Tab eventKey="charts" title="Charts">
-        <Breakdown></Breakdown>
-      </Tab>
       <Tab eventKey="Identity" title="Identity">
         <Identity />
+      </Tab>
+      <Tab eventKey="Trauma" title="Trauma">
+        <Trauma />
       </Tab>
     </Tabs>
 

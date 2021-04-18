@@ -10,18 +10,30 @@ import { Parallax } from 'react-scroll-parallax';
 
  
 const CanadaMC = {
-    labels: ['Female', 'Male'],
+    labels: ['Aboriginal', 'North American Origin', 'European', 'Caribbean', 'Latin, Central, South American', 'African', 'Asian', 'Oceania'],
     datasets: [
       {
-        label: 'Female To Male',
-        data: [10, 9],
+        label: 'Origins',
+        data: [6.2, 33.7, 57.1, 2.2, 2.0, 3.1, 17.7, 0.2],
         backgroundColor: [
           'rgba(255, 99, 132, 0.2)',
-          'rgba(54, 162, 235, 0.2)'
+          'rgba(54, 162, 235, 0.2)',
+          'rgba(60, 80, 235, 0.2)',
+          'rgba(54, 76, 99, 0.2)',
+          'rgba(12, 87, 6, 0.2)',
+          'rgba(150, 83, 230, 0.2)',
+          'rgba(159, 90, 125, 0.2)',
+          'rgba(130, 200, 65, 0.2)'
         ],
         borderColor: [
-          'rgba(255, 99, 132, 1)',
-          'rgba(54, 162, 235, 1)'
+            'rgba(255, 99, 132, 0.2)',
+            'rgba(54, 162, 235, 0.2)',
+            'rgba(60, 80, 235, 0.2)',
+            'rgba(54, 76, 99, 0.2)',
+            'rgba(12, 87, 6, 0.2)',
+            'rgba(150, 83, 230, 0.2)',
+            'rgba(159, 90, 125, 0.2)',
+            'rgba(130, 200, 65, 0.2)'
         ],
         borderWidth: 1,
       },
@@ -29,18 +41,28 @@ const CanadaMC = {
   }
 
   const FinlandMC = {
-    labels: ['Female', 'Male'],
+    labels: ['Finland', 'Soviet Union', 'Estonia', 'Iraq', 'Somalia', 'Former Yugoslavia', 'China'],
     datasets: [
       {
-        label: 'Female To Male',
-        data: [8, 5],
+        label: 'Origins',
+        data: [240 ,8, 5, 2.3, 2.2, 1.2, 1.2],
         backgroundColor: [
+            'rgba(90, 99, 132, 0.2)',
           'rgba(255, 99, 132, 0.2)',
-          'rgba(54, 162, 235, 0.2)'
+          'rgba(54, 162, 235, 0.2)',
+          'rgba(60, 80, 235, 0.2)',
+          'rgba(54, 76, 99, 0.2)',
+          'rgba(12, 87, 6, 0.2)',
+          'rgba(150, 83, 230, 0.2)'
         ],
         borderColor: [
-          'rgba(255, 99, 132, 1)',
-          'rgba(54, 162, 235, 1)'
+            'rgba(90, 99, 132, 0.2)',
+            'rgba(255, 99, 132, 0.2)',
+            'rgba(54, 162, 235, 0.2)',
+            'rgba(60, 80, 235, 0.2)',
+            'rgba(54, 76, 99, 0.2)',
+            'rgba(12, 87, 6, 0.2)',
+            'rgba(150, 83, 230, 0.2)'
         ],
         borderWidth: 1,
       },
@@ -54,19 +76,19 @@ export class Identity extends React.Component {
             <div class="no-padding identity">
                 <h2 className="identity___title">Identity through literature</h2>
                 {/* <div class="row"> */}
-                    <div class="col-md-6 no-padding">
+                    {/* <div class="col-md-6 no-padding">
                         <Fade left>
                             <h4>"It was the time where the topic of multiculturalism became important with the influx of immigrants, womanhood was beginning to be empowered, and discrimination based on sexual oritentation and gender identity became an issue."</h4>
                         </Fade>
-                    </div>
-                    <div class="col-md-6 no-padding">
+                    </div> */}
+                    {/* <div class="col-md-6 no-padding">
                         <Fade up>
                             <h3>1980-2000 in Finland</h3>
                         </Fade>
-                    </div>
+                    </div> */}
                     <Fade down>
                     <div class="identity___intro col-md-12 no-padding ">
-                        <h3 className="identity___intro">Some Books Published In Finland Discuss the many fronts of identity</h3>
+                        <h3 className="identity___intro">Many fronts of Identity were talked about in both countries, but namely...</h3>
                     </div>
                     </Fade>
                     <div>
